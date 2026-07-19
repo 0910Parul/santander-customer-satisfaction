@@ -1,0 +1,10 @@
+# Data (download from Kaggle)
+*.csv
+!rf_submission_final.csv
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
