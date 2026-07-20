@@ -78,4 +78,4 @@ santander-customer-satisfaction/
 
 Team competition project (MSBA, Carlson School of Management). My contribution: Random Forest modeling, feature engineering, and documentation.
 
-Built by **Parul Chaudhary** · [LinkedIn](#) · [Email](mailto:parul.jaswant@gmail.com)
+Built by **Parul Chaudhary** · [LinkedIn](https://www.linkedin.com/in/parul-chaudhary-39269b213) · [Email](mailto:parul.jaswant@gmail.com)
